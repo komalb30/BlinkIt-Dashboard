@@ -18,3 +18,11 @@ The data used in this dashboard is sourced from Blinkit's internal sales and cus
 - Product Data: Item type, fat content, sales figures.
 - Outlet Information: Outlet size, type, and geographical location.
 - Sales Metrics: Total sales, number of items sold, average transaction value.
+
+### 🛠️ Tools Used
+- Power BI: Power BI is used to build interactive dashboards and perform data visualizations to present key insights in a visually appealing manner.
+- DAX (Data Analysis Expressions): DAX is used to create calculated columns and measures for complex business logic within Power BI.
+- Power Query: Power Query is used for cleaning and transforming the raw data to ensure accuracy and consistency.
+
+### 🖼️ Power BI Dashboard
+Below is a screenshot of the Blinkit Sales Dashboard:
