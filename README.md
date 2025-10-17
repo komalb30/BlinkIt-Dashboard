@@ -1,4 +1,4 @@
-# BlinkIt-Dashboard 🌟
+# 🌟BlinkIt-Dashboard
 
 ### 💡 Project Overview
 
