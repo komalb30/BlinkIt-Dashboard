@@ -14,9 +14,8 @@ The Blinkit Sales Dashboard provides a detailed analysis of sales trends, custom
 ### 🗂️ Data Source
 The data used in this dashboard is sourced from Blinkit's internal sales and customer records, and includes information about:
 
-- Customer Demographics: Age, location, gender, and ratings.
 - Product Data: Item type, fat content, sales figures.
-- Outlet Information: Outlet size, type, and geographical location.
+- Outlet Information: Outlet size, type, and rating.
 - Sales Metrics: Total sales, number of items sold, average transaction value.
 
 ### 🛠️ Tools Used
