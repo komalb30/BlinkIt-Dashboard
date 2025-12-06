@@ -26,4 +26,4 @@ The data used in this dashboard is sourced from Blinkit's internal sales and cus
 ### 🖼️ Power BI Dashboard
 Below is a screenshot of the Blinkit Sales Dashboard:
 
-<img width="918" height="518" alt="BlinkIT_Dashboard" src="https://github.com/komalb30/BlinkIt-Dashboard/blob/main/dashboard/BlinkIt_Dashboard.png"/>
+<img width="918" height="518" alt="BlinkIT_Dashboard" src="https://github.com/komalb30/BlinkIt-Dashboard/blob/main/dashboard/Blinkit_Dashboard.png"/>
